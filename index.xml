@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>joopsberry</title>
+    <link>https://joops-glitch.github.io/joopsberry/</link>
+    <description>Recent content on joopsberry</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>joopsberry</copyright><atom:link href="https://joops-glitch.github.io/joopsberry/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>
