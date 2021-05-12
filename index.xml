@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>joopsberry</title>
-    <link>https://joops-glitch.github.io/joopsberry/</link>
+    <link>https://joopsberry.com/</link>
     <description>Recent content on joopsberry</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>joopsberry</copyright>
-    <lastBuildDate>Wed, 12 May 2021 16:21:48 -0500</lastBuildDate><atom:link href="https://joops-glitch.github.io/joopsberry/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 12 May 2021 16:21:48 -0500</lastBuildDate><atom:link href="https://joopsberry.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>farm-for-your-life-</title>
-      <link>https://joops-glitch.github.io/joopsberry/project/ffyl/</link>
+      <link>https://joopsberry.com/project/ffyl/</link>
       <pubDate>Wed, 12 May 2021 16:21:48 -0500</pubDate>
       
-      <guid>https://joops-glitch.github.io/joopsberry/project/ffyl/</guid>
+      <guid>https://joopsberry.com/project/ffyl/</guid>
       <description>Isometric 3D work in the PyGame library  
 Unfinished farming sim I started. I might finish this someday.
 Some cool features:  isometric grid is built map generation can be randomized assets were all hand-made  </description>
