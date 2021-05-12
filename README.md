@@ -1,2 +1,0 @@
-# joopsberry
-home
